@@ -3,3 +3,18 @@ This project uses machine learning and socioeconomic indicators to predict wheth
 Using demographic, economic, tax, and housing market variables, multiple classification models were evaluated, including Logistic Regression, Random Forest, Support Vector Machines, and Elastic Net regularization.
 
 Results show that nonlinear models substantially outperform traditional linear approaches, with Random Forest achieving the highest predictive accuracy.
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Feature Engineering
+      ↓
+EDA + VIF
+      ↓
+Model Training
+      ↓
+Hyperparameter Tuning
+      ↓
+Evaluation
+      ↓
+Interpretation
